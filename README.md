@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f3a125d0-40a0-4e62-beb7-1674e0406a74" /># AI Skincare Recommendation Engine
+## AI Skincare Recommendation Engine
 
 Skincare today can feel overwhelming. With thousands of products on the market and ingredient lists that are difficult to understand, finding products that actually suit specific skin concerns becomes confusing and time-consuming.
 
@@ -56,7 +56,7 @@ The recommendation pipeline follows these steps:
 4. Concern-based scoring using active ingredients
 5. Safety penalty filtering for sensitive ingredients
 6. Recommendation ranking and explainable outputs
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f3a125d0-40a0-4e62-beb7-1674e0406a74" />
 The system recommends products that are not only similar in formulation but also aligned with specific skincare concerns.
 
 Example:
