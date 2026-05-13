@@ -31,7 +31,7 @@ The result is an AI-powered skincare recommendation engine that analyzes product
 
 ---
 
-##  Technologies Used
+## Technologies Used
 
 * Python
 * Pandas
@@ -46,7 +46,7 @@ The result is an AI-powered skincare recommendation engine that analyzes product
 
 ---
 
-## ⚙️ How the Recommendation System Works
+## How the Recommendation System Works
 
 The recommendation pipeline follows these steps:
 
@@ -65,7 +65,7 @@ Example:
 
 ---
 
-## 📊 Visualization & Product Clustering
+## Visualization & Product Clustering
 
 To better understand product relationships, dimensionality reduction techniques were applied:
 
@@ -76,7 +76,7 @@ Interactive visualizations were created using Bokeh to explore product similarit
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset contains skincare product information including:
 
@@ -88,7 +88,7 @@ The dataset contains skincare product information including:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Streamlit web application
 * Personalized skincare routine generation
@@ -99,7 +99,7 @@ The dataset contains skincare product information including:
 
 ---
 
-## ▶️ Installation
+## Installation
 
 Clone the repository:
 
@@ -117,7 +117,7 @@ Run the Jupyter Notebook to explore the recommendation system.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Nandini Yadav
 
