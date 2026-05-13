@@ -1,4 +1,4 @@
-## AI Skincare Recommendation Engine
+## AI-Driven Skincare Analysis & Recommendation Engine
 
 Skincare today can feel overwhelming. With thousands of products on the market and ingredient lists that are difficult to understand, finding products that actually suit specific skin concerns becomes confusing and time-consuming.
 
